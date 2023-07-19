@@ -475,7 +475,7 @@ footer ul:first-of-type{
 
 }
 footer svg{
-    width: 2.5rem;
+    width: 2rem;
 }
 footer ul:last-of-type , .copyright{
     color: rgba(255, 255, 255, 0.60);
