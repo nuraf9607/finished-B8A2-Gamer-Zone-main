@@ -305,6 +305,9 @@ button {
 .overlay{
     position: relative;
 }
+.overlay img{
+    width: 100%;
+}
 .inside-overlay{
     position: absolute;
     display: flex;
@@ -312,7 +315,6 @@ button {
     justify-content: center;
     flex-direction: column;
     inset: 0;
-    width: 97.1%;
     height: 100%;
     background-color:  rgba(0, 0, 0, 0.715);
     color: #FF42A5;
